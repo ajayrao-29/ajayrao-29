@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I’m Ajay 👋  
 
-<!--
-**ajayrao-29/ajayrao-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student focused on Vulnerability Assessment and Penetration Testing (VAPT), Linux security, and secure system design.
 
-Here are some ideas to get you started:
+🔐 Cybersecurity Focus
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- OWASP Top 10 vulnerability analysis
+- Networking and Linux security fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Skills
+- Java (OOP concepts, security-focused implementation)
+- Linux (command-line usage, permissions, basic troubleshooting)
+
+📌 Security Projects
+- GRC Tool (Governance, Risk, and Compliance) – risk assessment and compliance tracking
+- Secure File Sharing System – authentication, access control, and encrypted file storage
+
+Currently building practical cybersecurity skills through hands-on projects and continuous learning.

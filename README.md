@@ -1,18 +1,61 @@
-Hi, I’m Ajay 👋  
+# Ajay | Java & Cybersecurity Learner
 
-Cybersecurity student focused on Vulnerability Assessment and Penetration Testing (VAPT), Linux security, and secure system design.
+Hi, I’m Ajay — a final-year B.Tech student learning **Java backend development** and **cybersecurity fundamentals**.  
+I focus on understanding core concepts and building small, practical projects while improving step by step.
 
-🔐 Cybersecurity Focus
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- OWASP Top 10 vulnerability analysis
-- Networking and Linux security fundamentals
+---
 
-💻 Technical Skills
-- Java (OOP concepts, security-focused implementation)
-- Linux (command-line usage, permissions, basic troubleshooting)
+## What I’m Currently Working On
+- Java & Spring Boot (REST APIs, basic backend architecture)
+- Secure coding practices
+- Cybersecurity fundamentals (SOC & VAPT basics)
+- Linux fundamentals
 
-📌 Security Projects
-- GRC Tool (Governance, Risk, and Compliance) – risk assessment and compliance tracking
-- Secure File Sharing System – authentication, access control, and encrypted file storage
+---
 
-Currently building practical cybersecurity skills through hands-on projects and continuous learning.
+## Technical Skills
+
+### Programming & Backend
+- Java (Core Java, OOPs, Collections)
+- Spring Boot (basic REST APIs)
+- JWT authentication (basic understanding)
+- REST API design
+
+### Cybersecurity
+- Networking fundamentals (TCP/IP, OSI, ports)
+- OWASP Top 10 (SQL Injection, XSS, CSRF, IDOR)
+- Vulnerability Assessment basics
+- SOC concepts & SIEM fundamentals
+
+### Tools & Platforms
+- Linux
+- Git & GitHub
+- Postman
+- Nmap, Wireshark (basic)
+- Burp Suite (intro level)
+
+---
+
+## Projects
+- **Secure File Sharing System**  
+  A learning project focused on authentication, access control, and secure file handling.
+
+(More projects will be added as I continue learning.)
+
+---
+
+## Certifications
+- SQL Injection – EC-Council  
+- Cisco Networking (Intro level)
+
+---
+
+## Goals
+- Strengthen Java backend skills
+- Gain hands-on SOC experience
+- Build security-focused projects with clean code
+
+---
+
+📫 **Contact**  
+- Email: ramachandarpuajay170@gmail.com  
